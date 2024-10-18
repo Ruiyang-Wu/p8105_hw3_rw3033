@@ -6,7 +6,6 @@ output: github_document
 ```{r}
 library(p8105.datasets)
 data("ny_noaa")
-str(ny_noaa)
 ```
 
 ```{r}
